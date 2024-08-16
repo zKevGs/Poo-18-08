@@ -1,0 +1,14 @@
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\obj\Debug\net6.0\Escuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\obj\Debug\net6.0\Escuela.AssemblyInfoInputs.cache
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\obj\Debug\net6.0\Escuela.AssemblyInfo.cs
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\obj\Debug\net6.0\Escuela.csproj.CoreCompileInputs.cache
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\bin\Debug\net6.0\Escuela.exe
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\bin\Debug\net6.0\Escuela.deps.json
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\bin\Debug\net6.0\Escuela.runtimeconfig.json
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\bin\Debug\net6.0\Escuela.dll
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\bin\Debug\net6.0\Escuela.pdb
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\obj\Debug\net6.0\Escuela.dll
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\obj\Debug\net6.0\refint\Escuela.dll
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\obj\Debug\net6.0\Escuela.pdb
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\obj\Debug\net6.0\Escuela.genruntimeconfig.cache
+C:\Users\ktreboliniceriotti\Desktop\POO-Relaciones\Escuela\obj\Debug\net6.0\ref\Escuela.dll
